@@ -71,5 +71,6 @@ public enum TestEnum {
         //根据英文名获取index
         int index = TestEnum.getIndexByEngName(TestEnum.WED);
         System.out.println(index);
+        //修改
     }
 }
