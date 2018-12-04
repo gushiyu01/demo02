@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+person:
+  name: 923686643@qq.com
+  age: 25
+  hobby:
+    game
+    -sports
+  friends: {k1: v1,k2: v2}
+phone:
+  13523511140
