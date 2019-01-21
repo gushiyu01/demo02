@@ -48,7 +48,7 @@ public class TestMap {
         str = str.replace("${custName}","谷世宇");
         str = str.replace("${pkgName}","谷");
         str = str.replace("${url}","世");
-        str = str.replace("${payMoney}","宇");
+        str = str.replace("${payMoney}","宇1");
         System.out.println(str);
     }
 }
