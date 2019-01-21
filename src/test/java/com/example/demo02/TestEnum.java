@@ -54,7 +54,7 @@ public enum TestEnum {
                 return week.getIndex();
             }
         }
-        return -1;
+        return -2;
     }
 
     //main
